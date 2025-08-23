@@ -1,5 +1,4 @@
 // write an open mp program which launches a parrel region and it has each thread prints its id and  team size
-
 #include <stdio.h>
 #include <omp.h>
 int main(){
